@@ -3,22 +3,22 @@
     {
       "id": 1,
       "message": "Changed hard drive on workstation 1",
-      "attention": "false",
+      "attention": true,
       "date": "04-05-2019",
       "tech": "Thanh Dao"
     },
     {
       "id": 2,
       "message": "Fixed virus on workstation 22",
-      "attention": "true",
+      "attention": true,
       "date": "02-05-2019",
       "tech": "Jerry West"
     },
     {
       "id": 3,
       "message": "Changed memory on workstation 4",
-      "attention": "false",
-      "date": "13-05-2019",
+      "attention": false,
+      "date": "03-20-2019",
       "tech": "Cat Dog"
     }
   ],

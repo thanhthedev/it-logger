@@ -1,25 +1,18 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Changed hard drive on workstation 1",
-      "attention": true,
-      "date": "04-05-2019",
-      "tech": "Thanh Dao"
-    },
-    {
-      "id": 2,
-      "message": "Fixed virus on workstation 22",
-      "attention": true,
-      "date": "02-05-2019",
-      "tech": "Jerry West"
-    },
-    {
-      "id": 3,
-      "message": "Changed memory on workstation 4",
+      "message": "change driver in computer 03",
       "attention": false,
-      "date": "03-20-2019",
-      "tech": "Cat Dog"
+      "tech": "Thanh Dao",
+      "date": "2019-07-17T05:45:19.616Z",
+      "id": 1
+    },
+    {
+      "message": "hard drive failed in workstation 003",
+      "attention": true,
+      "tech": "Cat Dog",
+      "date": "2019-07-17T05:45:56.935Z",
+      "id": 2
     }
   ],
   "techs": [

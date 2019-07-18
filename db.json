@@ -1,18 +1,18 @@
 {
   "logs": [
     {
-      "message": "change driver in computer 03",
+      "id": 2,
+      "message": "hard drive failed in workstation 003",
       "attention": false,
-      "tech": "Thanh Dao",
-      "date": "2019-07-17T05:45:19.616Z",
-      "id": 1
+      "tech": "Jerry West",
+      "date": "2019-07-18T04:07:03.392Z"
     },
     {
-      "message": "hard drive failed in workstation 003",
+      "message": "Fix hard drive on workstation 69",
       "attention": true,
       "tech": "Cat Dog",
-      "date": "2019-07-17T05:45:56.935Z",
-      "id": 2
+      "date": "2019-07-18T05:32:23.463Z",
+      "id": 3
     }
   ],
   "techs": [
@@ -32,8 +32,8 @@
       "lastName": "Dog"
     },
     {
-      "firstName": "Homer",
-      "lastName": "Simpson",
+      "firstName": "Kevin",
+      "lastName": "Durant",
       "id": 4
     }
   ]
